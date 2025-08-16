@@ -1,4 +1,4 @@
-# Clothing Reviews Sentiment Analysis 👗📊
+# Clothing Reviews Sentiment Analysis 📊
 
 ## About the Project
 This project analyzes **23,486 women’s clothing reviews** (raw dataset) to classify sentiment and generate actionable business insights.  
