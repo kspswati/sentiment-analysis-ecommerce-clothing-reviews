@@ -1,0 +1,7 @@
+,Accuracy,Precision,Recall,F1-Score,CV F1-Score
+SVM,0.8752,0.8868,0.9607,0.9223,0.9198
+Logistic Regression,0.8711,0.8832,0.9596,0.9198,0.9186
+Naive Bayes,0.8574,0.8593,0.9745,0.9133,0.91
+Random Forest,0.8565,0.8626,0.9679,0.9122,0.9082
+Gradient Boosting,0.8386,0.8397,0.9771,0.9032,0.9023
+Neural Network,0.8501,0.9001,0.906,0.903,0.9003
