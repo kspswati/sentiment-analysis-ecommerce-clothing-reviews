@@ -80,7 +80,6 @@ Our sentiment analysis framework provides:
 | Neural Network (MLP) | 0.8501   | 0.9001    | 0.9060 | 0.9030   | 0.9003      |
 
 ### ROC Curve Comparison
-![ROC Curves](visualizations/performance_charts/roc_comparison.png)  
 
 - **SVM & Logistic Regression**: AUC = 0.925  
 - **Naive Bayes**: AUC = 0.921  
